@@ -1,0 +1,1 @@
+python C:\appliactions\bin\changeJavaEnvVar.py %1
