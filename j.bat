@@ -1,1 +1,1 @@
-python C:\appliactions\bin\changeJavaEnvVar.py %1
+python C:\appliactions\bin\elevatedEnvVarUtil\changeJavaEnvVar.py %1
