@@ -1,7 +1,7 @@
 import sys, os, subprocess
 
-versionPathMap = {'8':os.environ['JAVA8'],'11':os.environ['JAVA11'],'16':os.environ['JAVA16']}
-validArguments = ['8','11','16']
+versionPathMap = {'8':os.environ['JAVA8'],'11':os.environ['JAVA11'],'16':os.environ['JAVA16'],'17':os.environ['JAVA17']}
+validArguments = ['8','11','16','17']
 firstArgument = sys.argv[1]
 print("First argument passed to script is: " + firstArgument)
 
